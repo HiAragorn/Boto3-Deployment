@@ -28,7 +28,7 @@ Even though the script is doing the job for us, you will have to enter some info
 When you receive the message that "IT IS FINISHED"
 
 open your aws console, copy the instance public dns name.
-open a browser, type https://instance public dns name
+open a browser, type "https://instance public dns name"
 
 you will get a warning because it is a self signed certificate. 
 
